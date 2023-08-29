@@ -31,7 +31,7 @@ The $i$th  successive minimum $\lambda_{i}(\mathcal{L})$  is the smallest $r$ su
 
 Quotient group $\mathbb{R}^{n} / \mathcal{L}$ of cosets
 $$
-c + \mathcal{L} = \{c + v : v \in \mathcal{L} \}, \;\;\; c \in \mathbb R,
+c + \mathcal{L} = \{c + v : v \in \mathcal{L} \}, \;\;\; c \in \mathbb R^n,
 $$
 with the usual induced addiction operation: 
 $$(c_{1}+ \mathcal{L}) + (c_{2}+ \mathcal{L}) = (c_{1}+ c_{2}) + \mathcal{L} $$
@@ -70,6 +70,8 @@ Given an arbitrary basis of some lattice, find a shortest nonzero lattice vector
 Given a basis $\pmb{B}$ of an $n$-dimensional lattice, find a nonzero vector $v \in \mathcal{L}$ for which $\|v\| \leq \gamma(n) \cdot \lambda_1(\mathcal{L})$ 
 
 ## Decisional Approximate SVP
+
+Given a basis of an $n$-dimensional lattice where either $\lambda_1(\mathcal{L}) \leq 1$ or $\lambda_1(\mathcal{L}) > \gamma(n)$  
 
 ## Approximate Shortest Independent Vectors Problem
 
