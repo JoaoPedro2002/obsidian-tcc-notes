@@ -10,3 +10,6 @@ $$
 \|x\|_{2}:= \sqrt{x_{1}^{2} + ... + x_{n}^{2}}
 $$
 This gives the ordinary distance from the origin to the point ''$x$'' 
+
+# Linear Combination
+
