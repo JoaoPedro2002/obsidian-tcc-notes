@@ -75,4 +75,6 @@ Given a basis of an $n$-dimensional lattice where either $\lambda_1(\mathcal{L})
 
 ## Approximate Shortest Independent Vectors Problem
 
+set $\pmb{S} = {s_{i}}\subset \mathcal{L}$ of $n$ linearly independent lattice vectors where $\|s_{i}\| \leq \gamma(n) \cdot \lambda_n(\mathcal(L))$ 
+
 ## Bounded Distance Decoding Problem
